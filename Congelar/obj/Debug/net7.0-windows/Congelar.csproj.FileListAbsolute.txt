@@ -1,0 +1,15 @@
+C:\Users\Conrado\source\repos\Congelar\Congelar\obj\Debug\net7.0-windows\Congelar.csproj.AssemblyReference.cache
+C:\Users\Conrado\source\repos\Congelar\Congelar\obj\Debug\net7.0-windows\Congelar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Conrado\source\repos\Congelar\Congelar\obj\Debug\net7.0-windows\Congelar.AssemblyInfoInputs.cache
+C:\Users\Conrado\source\repos\Congelar\Congelar\obj\Debug\net7.0-windows\Congelar.AssemblyInfo.cs
+C:\Users\Conrado\source\repos\Congelar\Congelar\obj\Debug\net7.0-windows\Congelar.csproj.CoreCompileInputs.cache
+C:\Users\Conrado\source\repos\Congelar\Congelar\bin\Debug\net7.0-windows\Congelar.exe
+C:\Users\Conrado\source\repos\Congelar\Congelar\bin\Debug\net7.0-windows\Congelar.deps.json
+C:\Users\Conrado\source\repos\Congelar\Congelar\bin\Debug\net7.0-windows\Congelar.runtimeconfig.json
+C:\Users\Conrado\source\repos\Congelar\Congelar\bin\Debug\net7.0-windows\Congelar.dll
+C:\Users\Conrado\source\repos\Congelar\Congelar\bin\Debug\net7.0-windows\Congelar.pdb
+C:\Users\Conrado\source\repos\Congelar\Congelar\obj\Debug\net7.0-windows\Congelar.dll
+C:\Users\Conrado\source\repos\Congelar\Congelar\obj\Debug\net7.0-windows\refint\Congelar.dll
+C:\Users\Conrado\source\repos\Congelar\Congelar\obj\Debug\net7.0-windows\Congelar.pdb
+C:\Users\Conrado\source\repos\Congelar\Congelar\obj\Debug\net7.0-windows\Congelar.genruntimeconfig.cache
+C:\Users\Conrado\source\repos\Congelar\Congelar\obj\Debug\net7.0-windows\ref\Congelar.dll
