@@ -62,7 +62,7 @@ namespace Congelar
             mirrorForm.Controls.Add(statusLabel);
             statusLabel.BringToFront(); // Garante que o Label seja exibido acima do PictureBox
 
-            Image cursorImage = Image.FromFile("C:/Users/Conrado/Desktop/test/cursor.png");
+            Image cursorImage = Image.FromFile("C:/Users/Conrado/source/repos/Congelar/Congelarcursor.png");
 
             mirrorForm.Show();
 
